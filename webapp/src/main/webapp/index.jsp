@@ -36,6 +36,6 @@
 
    <h1> Devops is Awesome </h1>
 
-   <h1> Thankyiu, happy learning </h1>
+   <h1> Thankyou, Happy learning </h1>
   
 </form>
