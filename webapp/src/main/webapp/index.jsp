@@ -16,7 +16,7 @@
     <br>
   
     <label for="Location"><b>Enter destination-Location</b></label>
-    <input type="text" placeholder="Enter Location" name="Location" id="Location" required>
+    <input type="text" placeholder="Enter destination-Location" name="Location" id="Location" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
