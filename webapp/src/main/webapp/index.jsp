@@ -37,7 +37,7 @@
 
    <h1> Devops is Awesome </h1>
 
-   <h1> Excellent hands on course for learning devops on Udemy </h1>
+   <h1> Excellent hands-on course for learning devops</h1>
 
    <h1> Thankyou, Happy learning! </h1>
   
