@@ -10,6 +10,7 @@
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <br>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Email" name="email" id="email" required>
@@ -36,6 +37,8 @@
 
    <h1> Devops is Awesome </h1>
 
-   <h1> Thankyou, Happy learning </h1>
+   <h1> Brilliant hands on course for learning devops </h1>
+
+   <h1> Thankyou, Happy learning! </h1>
   
 </form>
