@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Student-Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
     <br>
     
@@ -15,8 +15,8 @@
     <input type="text" placeholder="Email" name="email" id="email" required>
     <br>
   
-    <label for="Location"><b>Enter destination-Location</b></label>
-    <input type="text" placeholder="Enter destination-Location" name="Location" id="Location" required>
+    <label for="Location"><b>Enter Location</b></label>
+    <input type="text" placeholder="Enter Location" name="Location" id="Location" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
