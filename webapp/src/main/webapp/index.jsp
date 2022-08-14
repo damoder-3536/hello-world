@@ -7,6 +7,10 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter FULL_Name" name="Name" id="Name" required>
     <br>
+
+    <label for="Company"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter Company" name="Company" id="Company" required>
+    <br>
     
     <label for="mobile"><b>Enter mobile number</b></label>
     <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
