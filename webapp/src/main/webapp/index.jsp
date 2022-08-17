@@ -1,11 +1,11 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to New User Register for DevOps Learning by Damoder using Ansible </h1>
+    <h1>Welcome to New User Register for DevOps Learning by Damoder using Ansible Playbooks </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter FULL Name</b></label>
-    <input type="text" placeholder="Enter FULL_Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter FULL Name" name="Name" id="Name" required>
     <br>
 
     <label for="Company"><b>Enter Company_Name</b></label>
@@ -13,11 +13,11 @@
     <br>
     
     <label for="mobile"><b>Enter mobile number</b></label>
-    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email_id"><b>Enter Email</b></label>
-    <input type="text" placeholder="Email_ID" name="email" id="email" required>
+    <label for="email_id"><b>Enter Email ID</b></label>
+    <input type="text" placeholder="Email ID" name="email" id="email" required>
     <br>
   
     <label for="Location"><b>Enter Location</b></label>
